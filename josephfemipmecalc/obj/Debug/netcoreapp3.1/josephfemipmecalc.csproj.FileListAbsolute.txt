@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\josephfemipmecalc\josephfemipmecalc\bin\Debug\netcoreapp3.1\josephfemipmecalc.exe
+C:\Users\USER\source\repos\josephfemipmecalc\josephfemipmecalc\bin\Debug\netcoreapp3.1\josephfemipmecalc.deps.json
+C:\Users\USER\source\repos\josephfemipmecalc\josephfemipmecalc\bin\Debug\netcoreapp3.1\josephfemipmecalc.runtimeconfig.json
+C:\Users\USER\source\repos\josephfemipmecalc\josephfemipmecalc\bin\Debug\netcoreapp3.1\josephfemipmecalc.runtimeconfig.dev.json
+C:\Users\USER\source\repos\josephfemipmecalc\josephfemipmecalc\bin\Debug\netcoreapp3.1\josephfemipmecalc.dll
+C:\Users\USER\source\repos\josephfemipmecalc\josephfemipmecalc\bin\Debug\netcoreapp3.1\josephfemipmecalc.pdb
+C:\Users\USER\source\repos\josephfemipmecalc\josephfemipmecalc\obj\Debug\netcoreapp3.1\josephfemipmecalc.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\josephfemipmecalc\josephfemipmecalc\obj\Debug\netcoreapp3.1\josephfemipmecalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\josephfemipmecalc\josephfemipmecalc\obj\Debug\netcoreapp3.1\josephfemipmecalc.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\josephfemipmecalc\josephfemipmecalc\obj\Debug\netcoreapp3.1\josephfemipmecalc.AssemblyInfo.cs
+C:\Users\USER\source\repos\josephfemipmecalc\josephfemipmecalc\obj\Debug\netcoreapp3.1\josephfemipmecalc.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\josephfemipmecalc\josephfemipmecalc\obj\Debug\netcoreapp3.1\josephfemipmecalc.dll
+C:\Users\USER\source\repos\josephfemipmecalc\josephfemipmecalc\obj\Debug\netcoreapp3.1\josephfemipmecalc.pdb
+C:\Users\USER\source\repos\josephfemipmecalc\josephfemipmecalc\obj\Debug\netcoreapp3.1\josephfemipmecalc.genruntimeconfig.cache
