@@ -7,19 +7,33 @@ namespace josephfemipmecalc
     {
         static void Main(string[] args)
         {
-              Console.WriteLine("Welcome to the simple calculator");
-              Console.WriteLine("please Enter the first number");
-                   
-            
+            Console.WriteLine("Welcome to the simple calculator");
+            Console.WriteLine("please Enter the first number");
+
+            bool continueProgram = true;
+            while (continueProgram)
+            {
                 Console.WriteLine("Select operation:");
                 Console.WriteLine("1. Addition");
                 Console.WriteLine("2. Subtraction");
                 Console.WriteLine("3. Multiplication");
                 Console.WriteLine("4. Division");
+                Console.WriteLine();
+
+
 
                 Console.Write("Enter choice (1/2/3/4): ");
                 char choice = Console.ReadKey().KeyChar;
                 Console.WriteLine();
+
+                if (choice >= 1 && choice <= 4)
+                {
+                    return (choice );
+                }
+                else
+                {
+                    throw new ArgumentOutOfRangeException("Input must be between 1 to 4.");
+                }
 
                 Console.Write("Enter first number: ");
                 double num1 = Convert.ToDouble(Console.ReadLine());
@@ -71,7 +85,7 @@ namespace josephfemipmecalc
             }
         }
     }
-
+}
 
 
 
